@@ -1,0 +1,14 @@
+$ git merge SKELLY-BURGOS
+Updating b79c7ba..9a6473e
+Fast-forward
+ Respuestas/ejercicio1.4.txt |  8 ++++++++
+ Respuestas/ejercicio1.6.txt | 20 ++++++++++++++++++++
+ 2 files changed, 28 insertions(+)
+ create mode 100644 Respuestas/ejercicio1.4.txt
+ create mode 100644 Respuestas/ejercicio1.6.txt
+
+commit c88793fdf7464dbb1de038fcf19b89f4903fb4da (tag: SKELLY-BURGOS-paso5)
+Author: Marcus Skelly <marcus.skelly@educa.madrid.org>
+Date:   Fri Dec 4 19:19:24 2020 +0100
+
+    Añadida respuestas a ejercicio 1.4
