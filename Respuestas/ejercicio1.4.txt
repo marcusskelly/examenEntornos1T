@@ -1,14 +1,8 @@
-$ git log
-commit b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (HEAD -> SKELLY-BURGOS, origin/main, origin/HEAD, main)
-Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
-Date:   Fri Dec 4 11:11:30 2020 +0100
+$ git status
+On branch SKELLY-BURGOS
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Respuestas/ejercicio1.4.txt
 
-    Update .gitignore
-
-    Ignorar ficheros de IntelliJ y MacOS
-
-commit 7b39baf748c6a994c95cdb9df0eba4b586319a14
-Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
-Date:   Fri Dec 4 11:03:21 2020 +0100
-
-    Initial commit
+no changes added to commit (use "git add" and/or "git commit -a")
